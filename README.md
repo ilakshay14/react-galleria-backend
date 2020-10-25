@@ -1,7 +1,7 @@
 <h1>Galleria (backend)</h1>
 A React app where you can upload your shots for display.
 
-[Frontend Repo] (https://github.com/ilakshay14/react-galleria)
+<a href="https://github.com/ilakshay14/react-galleria">Frontend Repo</a>
 
 <h2>Instructions</h2>
 Create a directory in your root directory of this project and name it as "uploads".
