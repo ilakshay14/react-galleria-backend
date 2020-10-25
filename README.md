@@ -3,6 +3,9 @@ A React app where you can upload your shots for display.
 
 [Frontend Repo] (https://github.com/ilakshay14/react-galleria)
 
+<h2>Instructions</h2>
+Create a directory in your root directory of this project and name it as "uploads".
+
 <h2>Features</h2>
 <ul>
     <li>set profile photo</li>
